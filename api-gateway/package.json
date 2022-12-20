@@ -33,7 +33,7 @@
     "http-proxy-middleware": "^0.18.0",
     "http-status": "^1.0.1",
     "jsonwebtoken": "^8.2.1",
-    "knex": "^0.14.6",
+    "knex": "^2.3.0",
     "morgan": "^1.9.0",
     "pg": "^7.4.1",
     "spdy": "^3.4.7"
